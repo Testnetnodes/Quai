@@ -92,4 +92,4 @@ https://paxos2.colosseum.quaiscan.io/     explorerimiz burası yukarıdan bölge
 * Güncelleme geldiğinde ve ağ çalıştığında sürüm numarası değişecek ve kurulumu yapacağız. alttaki kod kurulumu silmek günncelemyi yapmak içindir. `cd go-quai` dosyanın içinde olduğunuzdan emin olun.
 
 `run make stop && rm -rf nodelogs && rm -rf ~/.quai && git checkout v0.17.0-rc.3 && cp network.env.dist network.env`  ardından nano network.env düzenlemeleri yapıp `make run` diyoruz ve başlatıyoruz.
-# Quai
+
