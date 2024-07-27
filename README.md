@@ -6,11 +6,11 @@
 | ------------ | ------------ |
 | CPU |	4|
 | RAM	| 8+ GB |
-| Storage	| 1TB diola 400gb diyelim |
+| Storage	| 1 TB |
 
-👉 `Faucet` : https://faucet.quai.network/    Bize platform testleri için laızm olucaktır...
+👉 `Faucet` : https://faucet.quai.network/    Bize platform testleri için lazım olucaktır...
 
-🌟 [Quai Twitter](https://twitter.com/gokhan_molla)
+🌟 [Quai Twitter](https://x.com/QuaiNetwork)
 
 🌟 [Quai Discord](https://discord.gg/EJQpSSaq)
 
